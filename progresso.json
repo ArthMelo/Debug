@@ -1,0 +1,14 @@
+{
+    "niveis": [
+        {"nivel": 1, "completado": true},
+        {"nivel": 2, "completado": false},
+        {"nivel": 3, "completado": false},
+        {"nivel": 4, "completado": false},
+        {"nivel": 5, "completado": false},
+        {"nivel": 6, "completado": false},
+        {"nivel": 7, "completado": false},
+        {"nivel": 8, "completado": false},
+        {"nivel": 9, "completado": false},
+        {"nivel": 10, "completado": false}
+    ]
+}
